@@ -6,7 +6,7 @@ This dashboard provides an overview of key sales and revenue metrics for a compa
 
 The data for this dashboard is likely sourced from a database or data warehouse. The specific tables and fields used are not provided in the image, but they would include information on sales, revenue, product details, customer information, and market data.
 
-## Visualizations
+## Visualizations(<a href="https://github.com/Chaudhary-Mansi/Sales-Insights-for-AtliQ-hardware/blob/main/Sales_Analysis.png"Dashboard</a>)
 
 **Revenue Trend:** This line chart shows the trend of revenue over time. It allows users to see the overall sales performance and identify any significant changes or trends.
 **Revenue by Markets:** This bar chart displays the revenue generated from each market. It helps users understand which markets are contributing the most to overall revenue.
